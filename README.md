@@ -23,7 +23,7 @@ In order to fully assemble the Interaction, so as to look like the picture below
 
 The Morse Code Interaction purpose is to teach Morse Code to people in a very simple way, by simply making the player decipher the morse coded message the the interaction is playing when you press the button.
 
-The way this works is the interaction selects a word from an hardcoded array of words and proceeds to translate that word to morse code with the usage of the piezzo speaker and LEDs for that effect.
+The way this works is the interaction selects a word from an [hardcoded array of words](https://github.com/pmsmm/Morse-Code-Interaction/blob/04870d34bf9ab6b3991aeef65d71f5c985d7611f/src/MorseCodeInteraction.ino#L1) and proceeds to translate that word to morse code with the usage of the piezzo speaker and LEDs for that effect.
 
 ### Example
 
